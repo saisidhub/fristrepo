@@ -6,4 +6,5 @@
 })
 
 export class AboutComponent {
+    private name: string = "Hello World";
 }
