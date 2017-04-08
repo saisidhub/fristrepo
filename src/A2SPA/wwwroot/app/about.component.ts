@@ -8,4 +8,6 @@
 export class AboutComponent {
     private name: string = "Hello World";
     private rollno: number = 1001;
+
+    public applicationName: string = "RIT";
 }
